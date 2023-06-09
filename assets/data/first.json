@@ -1,0 +1,46 @@
+{
+    "mari": {
+        "name": "Mariami",
+        "permissions": "adult",
+        "outlook": "scientist",
+        "gender": "female",
+        "favouriteDrink": "coffee",
+        "hairСolor": "dark",
+        "height": 170,
+        "weight": 54,
+        "age": 30
+    },
+    "gio": {
+        "name": "Giorgi",
+        "permissions": "adult",
+        "outlook": "scientist",
+        "gender": "male",
+        "favouriteDrink": "tea",
+        "hairСolor": "dark",
+        "height": 181,
+        "weight": 100,
+        "age": 33
+    },
+    "ani": {
+        "name": "Anastasia",
+        "permissions": "junior",
+        "outlook": "scientist",
+        "gender": "female",
+        "favouriteDrink": "cocoa",
+        "hairСolor": "dark",
+        "height": 110,
+        "weight": 19,
+        "age": 5
+    },
+    "elene": {
+        "name": "Elene",
+        "permissions": "junior",
+        "outlook": "scientist",
+        "gender": "female",
+        "favouriteDrink": "cocoa",
+        "hairСolor": "dark",
+        "height": 90,
+        "weight": 13,
+        "age": 3
+    }
+}
