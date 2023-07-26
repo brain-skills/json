@@ -3,7 +3,7 @@ let content = document.querySelector('#content');
 let temp;
 
 choose.addEventListener('change', function(){
-    fetch('../assets/data/first.json')
+    fetch('../json/assets/data/first.json')
     .then((response) => response.json())
     .then((data) => {
         if(choose.options.selectedIndex == 1){
@@ -19,7 +19,6 @@ choose.addEventListener('change', function(){
                 <b>Weight:</b> ${data.mari.weight}<br>
                 <b>Age:</b> ${data.mari.age}
             `;
-            if(permissions){control}
         } else if(choose.options.selectedIndex == 2){
             document.body.style.background = "#007bff";
             document.body.style.color = "#fff";
