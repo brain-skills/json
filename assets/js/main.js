@@ -3,7 +3,7 @@ let content = document.querySelector('#content');
 let temp;
 
 choose.addEventListener('change', function(){
-    fetch('../json/assets/data/first.json')
+    fetch('/assets/data/first.json')
     .then((response) => response.json())
     .then((data) => {
         if(choose.options.selectedIndex == 1){
